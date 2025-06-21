@@ -1,0 +1,6780 @@
+Packet #1 captured:
+Source IP: 0.0.0.0
+Destination IP: 0.0.0.0
+Packet Length: 102 bytes
+Packet #2 captured:
+Source IP: 192.168.1.9
+Destination IP: 18.164.213.175
+Packet Length: 55 bytes
+Packet #3 captured:
+Source IP: 18.164.213.175
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #4 captured:
+Source IP: 192.168.1.9
+Destination IP: 99.86.47.102
+Packet Length: 55 bytes
+Packet #5 captured:
+Source IP: 99.86.47.102
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #6 captured:
+Source IP: 192.168.1.9
+Destination IP: 104.22.58.181
+Packet Length: 55 bytes
+Packet #7 captured:
+Source IP: 104.22.58.181
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #8 captured:
+Source IP: 192.168.1.9
+Destination IP: 104.26.2.83
+Packet Length: 55 bytes
+Packet #9 captured:
+Source IP: 104.26.2.83
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #10 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.77.234
+Packet Length: 55 bytes
+Packet #11 captured:
+Source IP: 142.250.77.234
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #12 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.193.72
+Packet Length: 55 bytes
+Packet #13 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.192.170
+Packet Length: 55 bytes
+Packet #14 captured:
+Source IP: 142.250.193.72
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #15 captured:
+Source IP: 142.250.192.170
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #16 captured:
+Source IP: 192.168.1.9
+Destination IP: 192.168.1.1
+Packet Length: 82 bytes
+Packet #17 captured:
+Source IP: 0.0.0.0
+Destination IP: 157.37.176.192
+Packet Length: 102 bytes
+Packet #18 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.193.72
+Packet Length: 55 bytes
+Packet #19 captured:
+Source IP: 142.250.193.72
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #20 captured:
+Source IP: 192.168.1.9
+Destination IP: 18.66.63.126
+Packet Length: 55 bytes
+Packet #21 captured:
+Source IP: 18.66.63.126
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #22 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.77.194
+Packet Length: 55 bytes
+Packet #23 captured:
+Source IP: 142.250.77.194
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #24 captured:
+Source IP: 192.168.1.9
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #25 captured:
+Source IP: 192.168.1.9
+Destination IP: 216.239.36.54
+Packet Length: 55 bytes
+Packet #26 captured:
+Source IP: 216.239.36.54
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #27 captured:
+Source IP: 192.168.1.9
+Destination IP: 64.233.170.188
+Packet Length: 55 bytes
+Packet #28 captured:
+Source IP: 64.233.170.188
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #29 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.207.202
+Packet Length: 71 bytes
+Packet #30 captured:
+Source IP: 142.250.207.202
+Destination IP: 192.168.1.9
+Packet Length: 67 bytes
+Packet #31 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.193.234
+Packet Length: 55 bytes
+Packet #32 captured:
+Source IP: 142.250.193.234
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #33 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.77.193
+Packet Length: 55 bytes
+Packet #34 captured:
+Source IP: 142.250.77.193
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #35 captured:
+Source IP: 104.16.102.112
+Destination IP: 192.168.1.9
+Packet Length: 92 bytes
+Packet #36 captured:
+Source IP: 192.168.1.9
+Destination IP: 104.16.102.112
+Packet Length: 96 bytes
+Packet #37 captured:
+Source IP: 104.16.102.112
+Destination IP: 192.168.1.9
+Packet Length: 54 bytes
+Packet #38 captured:
+Source IP: 142.250.207.202
+Destination IP: 192.168.1.9
+Packet Length: 184 bytes
+Packet #39 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.207.202
+Packet Length: 75 bytes
+Packet #40 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.207.202
+Packet Length: 71 bytes
+Packet #41 captured:
+Source IP: 142.250.207.202
+Destination IP: 192.168.1.9
+Packet Length: 67 bytes
+Packet #42 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.207.202
+Packet Length: 71 bytes
+Packet #43 captured:
+Source IP: 142.250.207.202
+Destination IP: 192.168.1.9
+Packet Length: 67 bytes
+Packet #44 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.207.202
+Packet Length: 71 bytes
+Packet #45 captured:
+Source IP: 142.250.207.202
+Destination IP: 192.168.1.9
+Packet Length: 67 bytes
+Packet #46 captured:
+Source IP: 192.168.1.9
+Destination IP: 199.232.20.176
+Packet Length: 55 bytes
+Packet #47 captured:
+Source IP: 199.232.20.176
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #48 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.207.202
+Packet Length: 71 bytes
+Packet #49 captured:
+Source IP: 142.250.207.202
+Destination IP: 192.168.1.9
+Packet Length: 67 bytes
+Packet #50 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.207.202
+Packet Length: 71 bytes
+Packet #51 captured:
+Source IP: 142.250.207.202
+Destination IP: 192.168.1.9
+Packet Length: 67 bytes
+Packet #52 captured:
+Source IP: 192.168.1.9
+Destination IP: 216.239.38.53
+Packet Length: 55 bytes
+Packet #53 captured:
+Source IP: 216.239.38.53
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #54 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.207.202
+Packet Length: 71 bytes
+Packet #55 captured:
+Source IP: 142.250.207.202
+Destination IP: 192.168.1.9
+Packet Length: 67 bytes
+Packet #56 captured:
+Source IP: 0.0.0.0
+Destination IP: 157.37.176.192
+Packet Length: 86 bytes
+Packet #57 captured:
+Source IP: 0.0.0.0
+Destination IP: 0.0.0.0
+Packet Length: 78 bytes
+Packet #58 captured:
+Source IP: 192.168.1.9
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #59 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.207.202
+Packet Length: 71 bytes
+Packet #60 captured:
+Source IP: 142.250.207.202
+Destination IP: 192.168.1.9
+Packet Length: 67 bytes
+Packet #61 captured:
+Source IP: 192.168.1.9
+Destination IP: 172.64.155.209
+Packet Length: 55 bytes
+Packet #62 captured:
+Source IP: 172.64.155.209
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #63 captured:
+Source IP: 20.114.189.70
+Destination IP: 192.168.1.9
+Packet Length: 85 bytes
+Packet #64 captured:
+Source IP: 20.114.189.70
+Destination IP: 192.168.1.9
+Packet Length: 54 bytes
+Packet #65 captured:
+Source IP: 192.168.1.9
+Destination IP: 20.114.189.70
+Packet Length: 54 bytes
+Packet #66 captured:
+Source IP: 63.166.192.168
+Destination IP: 1.9.0.0
+Packet Length: 42 bytes
+Packet #67 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.207.202
+Packet Length: 71 bytes
+Packet #68 captured:
+Source IP: 142.250.207.202
+Destination IP: 192.168.1.9
+Packet Length: 67 bytes
+Packet #69 captured:
+Source IP: 0.0.0.0
+Destination IP: 0.0.0.0
+Packet Length: 102 bytes
+Packet #70 captured:
+Source IP: 63.166.192.168
+Destination IP: 1.9.0.0
+Packet Length: 42 bytes
+Packet #71 captured:
+Source IP: 63.166.192.168
+Destination IP: 1.9.0.0
+Packet Length: 42 bytes
+Packet #72 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.207.202
+Packet Length: 71 bytes
+Packet #73 captured:
+Source IP: 142.250.207.202
+Destination IP: 192.168.1.9
+Packet Length: 67 bytes
+Packet #74 captured:
+Source IP: 192.168.1.9
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #75 captured:
+Source IP: 192.168.1.9
+Destination IP: 34.120.195.249
+Packet Length: 55 bytes
+Packet #76 captured:
+Source IP: 34.120.195.249
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #77 captured:
+Source IP: 192.168.1.9
+Destination IP: 34.237.73.95
+Packet Length: 293 bytes
+Packet #78 captured:
+Source IP: 34.237.73.95
+Destination IP: 192.168.1.9
+Packet Length: 315 bytes
+Packet #79 captured:
+Source IP: 192.168.1.9
+Destination IP: 34.237.73.95
+Packet Length: 54 bytes
+Packet #80 captured:
+Source IP: 3.13.31.76
+Destination IP: 192.168.1.9
+Packet Length: 81 bytes
+Packet #81 captured:
+Source IP: 192.168.1.9
+Destination IP: 3.13.31.76
+Packet Length: 54 bytes
+Packet #82 captured:
+Source IP: 76.223.112.205
+Destination IP: 192.168.1.9
+Packet Length: 117 bytes
+Packet #83 captured:
+Source IP: 192.168.1.9
+Destination IP: 76.223.112.205
+Packet Length: 119 bytes
+Packet #84 captured:
+Source IP: 76.223.112.205
+Destination IP: 192.168.1.9
+Packet Length: 54 bytes
+Packet #85 captured:
+Source IP: 76.223.112.205
+Destination IP: 192.168.1.9
+Packet Length: 115 bytes
+Packet #86 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.207.202
+Packet Length: 71 bytes
+Packet #87 captured:
+Source IP: 142.250.207.202
+Destination IP: 192.168.1.9
+Packet Length: 67 bytes
+Packet #88 captured:
+Source IP: 192.168.1.9
+Destination IP: 76.223.112.205
+Packet Length: 54 bytes
+Packet #89 captured:
+Source IP: 192.168.1.9
+Destination IP: 34.237.73.95
+Packet Length: 294 bytes
+Packet #90 captured:
+Source IP: 192.168.1.9
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #91 captured:
+Source IP: 34.237.73.95
+Destination IP: 192.168.1.9
+Packet Length: 316 bytes
+Packet #92 captured:
+Source IP: 192.168.1.9
+Destination IP: 34.237.73.95
+Packet Length: 54 bytes
+Packet #93 captured:
+Source IP: 76.223.112.205
+Destination IP: 192.168.1.9
+Packet Length: 78 bytes
+Packet #94 captured:
+Source IP: 192.168.1.9
+Destination IP: 76.223.112.205
+Packet Length: 82 bytes
+Packet #95 captured:
+Source IP: 76.223.112.205
+Destination IP: 192.168.1.9
+Packet Length: 54 bytes
+Packet #96 captured:
+Source IP: 192.168.1.9
+Destination IP: 66.33.60.194
+Packet Length: 55 bytes
+Packet #97 captured:
+Source IP: 66.33.60.194
+Destination IP: 192.168.1.9
+Packet Length: 66 bytes
+Packet #98 captured:
+Source IP: 192.168.1.9
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #99 captured:
+Source IP: 104.18.27.48
+Destination IP: 192.168.1.9
+Packet Length: 81 bytes
+Packet #100 captured:
+Source IP: 192.168.1.9
+Destination IP: 104.18.27.48
+Packet Length: 85 bytes
+Packet #101 captured:
+Source IP: 104.18.27.48
+Destination IP: 192.168.1.9
+Packet Length: 54 bytes
+Packet #102 captured:
+Source IP: 192.168.1.9
+Destination IP: 142.250.207.202
+Packet Length: 71 bytes
+Packet #103 captured:
+Source IP: 142.250.207.202
+Destination IP: 192.168.1.9
+Packet Length: 67 bytes
+Packet #1 captured:
+Source IP: 10.5.28.169
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #2 captured:
+Source IP: 0.0.0.0
+Destination IP: 157.37.176.192
+Packet Length: 120 bytes
+Packet #3 captured:
+Source IP: 10.5.28.169
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #4 captured:
+Source IP: 10.5.28.169
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #5 captured:
+Source IP: 10.5.28.169
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #6 captured:
+Source IP: 10.5.28.169
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #7 captured:
+Source IP: 10.5.28.169
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #8 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 80 bytes
+Packet #9 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #10 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 146 bytes
+Packet #11 captured:
+Source IP: 10.5.28.169
+Destination IP: 20.44.229.112
+Packet Length: 66 bytes
+Packet #12 captured:
+Source IP: 20.44.229.112
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #13 captured:
+Source IP: 10.5.28.169
+Destination IP: 20.44.229.112
+Packet Length: 54 bytes
+Packet #14 captured:
+Source IP: 10.5.28.169
+Destination IP: 20.44.229.112
+Packet Length: 506 bytes
+Packet #15 captured:
+Source IP: 20.44.229.112
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #16 captured:
+Source IP: 20.44.229.112
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #17 captured:
+Source IP: 20.44.229.112
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #18 captured:
+Source IP: 20.44.229.112
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #19 captured:
+Source IP: 20.44.229.112
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #20 captured:
+Source IP: 10.5.28.169
+Destination IP: 20.44.229.112
+Packet Length: 54 bytes
+Packet #21 captured:
+Source IP: 20.44.229.112
+Destination IP: 10.5.28.169
+Packet Length: 499 bytes
+Packet #22 captured:
+Source IP: 10.5.28.169
+Destination IP: 20.44.229.112
+Packet Length: 54 bytes
+Packet #23 captured:
+Source IP: 10.5.28.169
+Destination IP: 20.44.229.112
+Packet Length: 142 bytes
+Packet #24 captured:
+Source IP: 10.5.28.169
+Destination IP: 20.44.229.112
+Packet Length: 1509 bytes
+Packet #25 captured:
+Source IP: 20.44.229.112
+Destination IP: 10.5.28.169
+Packet Length: 157 bytes
+Packet #26 captured:
+Source IP: 20.44.229.112
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #27 captured:
+Source IP: 10.5.28.169
+Destination IP: 20.44.229.112
+Packet Length: 54 bytes
+Packet #28 captured:
+Source IP: 20.44.229.112
+Destination IP: 10.5.28.169
+Packet Length: 567 bytes
+Packet #29 captured:
+Source IP: 10.5.28.169
+Destination IP: 20.44.229.112
+Packet Length: 1647 bytes
+Packet #30 captured:
+Source IP: 20.44.229.112
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #31 captured:
+Source IP: 20.44.229.112
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #32 captured:
+Source IP: 20.44.229.112
+Destination IP: 10.5.28.169
+Packet Length: 96 bytes
+Packet #33 captured:
+Source IP: 10.5.28.169
+Destination IP: 20.44.229.112
+Packet Length: 54 bytes
+Packet #34 captured:
+Source IP: 0.0.0.0
+Destination IP: 157.37.176.192
+Packet Length: 120 bytes
+Packet #35 captured:
+Source IP: 10.5.28.169
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #36 captured:
+Source IP: 63.166.10.5
+Destination IP: 28.169.0.0
+Packet Length: 42 bytes
+Packet #37 captured:
+Source IP: 63.166.10.5
+Destination IP: 28.169.0.0
+Packet Length: 42 bytes
+Packet #38 captured:
+Source IP: 63.166.10.5
+Destination IP: 28.169.0.0
+Packet Length: 42 bytes
+Packet #39 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 83 bytes
+Packet #40 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 83 bytes
+Packet #41 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 226 bytes
+Packet #42 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 66 bytes
+Packet #43 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #44 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #45 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 233 bytes
+Packet #46 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #47 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #48 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #49 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #50 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 662 bytes
+Packet #51 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 180 bytes
+Packet #52 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #53 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 312 bytes
+Packet #54 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 185 bytes
+Packet #55 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 446 bytes
+Packet #56 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #57 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #58 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #59 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #60 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 78 bytes
+Packet #61 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 78 bytes
+Packet #62 captured:
+Source IP: 10.5.28.169
+Destination IP: 224.0.0.251
+Packet Length: 85 bytes
+Packet #63 captured:
+Source IP: 0.0.0.0
+Destination IP: 157.37.176.192
+Packet Length: 105 bytes
+Packet #64 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 171 bytes
+Packet #65 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.45
+Packet Length: 66 bytes
+Packet #66 captured:
+Source IP: 18.67.233.45
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #67 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.45
+Packet Length: 54 bytes
+Packet #68 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.45
+Packet Length: 228 bytes
+Packet #69 captured:
+Source IP: 18.67.233.45
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #70 captured:
+Source IP: 18.67.233.45
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #71 captured:
+Source IP: 18.67.233.45
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #72 captured:
+Source IP: 18.67.233.45
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #73 captured:
+Source IP: 18.67.233.45
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #74 captured:
+Source IP: 18.67.233.45
+Destination IP: 10.5.28.169
+Packet Length: 231 bytes
+Packet #75 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.45
+Packet Length: 54 bytes
+Packet #76 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.45
+Packet Length: 147 bytes
+Packet #77 captured:
+Source IP: 18.67.233.45
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #78 captured:
+Source IP: 18.67.233.45
+Destination IP: 10.5.28.169
+Packet Length: 225 bytes
+Packet #79 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.45
+Packet Length: 194 bytes
+Packet #80 captured:
+Source IP: 18.67.233.45
+Destination IP: 10.5.28.169
+Packet Length: 551 bytes
+Packet #81 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.45
+Packet Length: 54 bytes
+Packet #82 captured:
+Source IP: 18.67.233.45
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #83 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.45
+Packet Length: 54 bytes
+Packet #84 captured:
+Source IP: 10.5.28.169
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #85 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 74 bytes
+Packet #86 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 74 bytes
+Packet #87 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 180 bytes
+Packet #88 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.211.137.147
+Packet Length: 66 bytes
+Packet #89 captured:
+Source IP: 23.211.137.147
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #90 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.211.137.147
+Packet Length: 54 bytes
+Packet #91 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.211.137.147
+Packet Length: 500 bytes
+Packet #92 captured:
+Source IP: 23.211.137.147
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #93 captured:
+Source IP: 23.211.137.147
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #94 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.211.137.147
+Packet Length: 54 bytes
+Packet #95 captured:
+Source IP: 23.211.137.147
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #96 captured:
+Source IP: 23.211.137.147
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #97 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.211.137.147
+Packet Length: 54 bytes
+Packet #98 captured:
+Source IP: 23.211.137.147
+Destination IP: 10.5.28.169
+Packet Length: 315 bytes
+Packet #99 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.211.137.147
+Packet Length: 54 bytes
+Packet #100 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.211.137.147
+Packet Length: 134 bytes
+Packet #101 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.211.137.147
+Packet Length: 370 bytes
+Packet #102 captured:
+Source IP: 23.211.137.147
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #103 captured:
+Source IP: 23.211.137.147
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #104 captured:
+Source IP: 23.211.137.147
+Destination IP: 10.5.28.169
+Packet Length: 325 bytes
+Packet #105 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.211.137.147
+Packet Length: 54 bytes
+Packet #106 captured:
+Source IP: 23.211.137.147
+Destination IP: 10.5.28.169
+Packet Length: 325 bytes
+Packet #107 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.211.137.147
+Packet Length: 54 bytes
+Packet #108 captured:
+Source IP: 23.211.137.147
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #109 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.211.137.147
+Packet Length: 54 bytes
+Packet #110 captured:
+Source IP: 23.211.137.147
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #111 captured:
+Source IP: 23.211.137.147
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #112 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.211.137.147
+Packet Length: 54 bytes
+Packet #113 captured:
+Source IP: 23.211.137.147
+Destination IP: 10.5.28.169
+Packet Length: 923 bytes
+Packet #114 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.211.137.147
+Packet Length: 54 bytes
+Packet #115 captured:
+Source IP: 10.5.28.169
+Destination IP: 224.0.0.251
+Packet Length: 85 bytes
+Packet #116 captured:
+Source IP: 0.0.0.0
+Destination IP: 157.37.176.192
+Packet Length: 105 bytes
+Packet #117 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 80 bytes
+Packet #118 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 80 bytes
+Packet #119 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 80 bytes
+Packet #120 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 80 bytes
+Packet #121 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 81 bytes
+Packet #122 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 81 bytes
+Packet #123 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 83 bytes
+Packet #124 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 83 bytes
+Packet #125 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 74 bytes
+Packet #126 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 74 bytes
+Packet #127 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 76 bytes
+Packet #128 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 76 bytes
+Packet #129 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 80 bytes
+Packet #130 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 80 bytes
+Packet #131 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #132 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #133 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 205 bytes
+Packet #134 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 187 bytes
+Packet #135 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.28
+Packet Length: 66 bytes
+Packet #136 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #137 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.28
+Packet Length: 54 bytes
+Packet #138 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.28
+Packet Length: 1848 bytes
+Packet #139 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #140 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #141 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #142 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #143 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #144 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 742 bytes
+Packet #145 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.28
+Packet Length: 54 bytes
+Packet #146 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.28
+Packet Length: 118 bytes
+Packet #147 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.28
+Packet Length: 146 bytes
+Packet #148 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.28
+Packet Length: 393 bytes
+Packet #149 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #150 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 200 bytes
+Packet #151 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 116 bytes
+Packet #152 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #153 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.28
+Packet Length: 54 bytes
+Packet #154 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.28
+Packet Length: 85 bytes
+Packet #155 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #156 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #157 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #158 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 611 bytes
+Packet #159 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.28
+Packet Length: 54 bytes
+Packet #160 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #161 captured:
+Source IP: 10.5.28.169
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #162 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 66 bytes
+Packet #163 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #164 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #165 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #166 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #167 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 504 bytes
+Packet #168 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 236 bytes
+Packet #169 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #170 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #171 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #172 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 802 bytes
+Packet #173 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #174 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 254 bytes
+Packet #175 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #176 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 341 bytes
+Packet #177 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 341 bytes
+Packet #178 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 316 bytes
+Packet #179 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #180 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 218 bytes
+Packet #181 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 66 bytes
+Packet #182 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 66 bytes
+Packet #183 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 66 bytes
+Packet #184 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 66 bytes
+Packet #185 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 66 bytes
+Packet #186 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 66 bytes
+Packet #187 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 81 bytes
+Packet #188 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 81 bytes
+Packet #189 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 83 bytes
+Packet #190 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 83 bytes
+Packet #191 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 74 bytes
+Packet #192 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 74 bytes
+Packet #193 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 203 bytes
+Packet #194 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 219 bytes
+Packet #195 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 186 bytes
+Packet #196 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 173 bytes
+Packet #197 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 66 bytes
+Packet #198 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 189 bytes
+Packet #199 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.85.234.98
+Packet Length: 66 bytes
+Packet #200 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #201 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.85.234.98
+Packet Length: 54 bytes
+Packet #202 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.85.234.98
+Packet Length: 1787 bytes
+Packet #203 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #204 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #205 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #206 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #207 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #208 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.85.234.98
+Packet Length: 54 bytes
+Packet #209 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 773 bytes
+Packet #210 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.85.234.98
+Packet Length: 54 bytes
+Packet #211 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.85.234.98
+Packet Length: 118 bytes
+Packet #212 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.85.234.98
+Packet Length: 146 bytes
+Packet #213 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.85.234.98
+Packet Length: 564 bytes
+Packet #214 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #215 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 200 bytes
+Packet #216 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 116 bytes
+Packet #217 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #218 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #219 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.85.234.98
+Packet Length: 54 bytes
+Packet #220 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.85.234.98
+Packet Length: 85 bytes
+Packet #221 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 1292 bytes
+Packet #222 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 1292 bytes
+Packet #223 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #224 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #225 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 1848 bytes
+Packet #226 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #227 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #228 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #229 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #230 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #231 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #232 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 1784 bytes
+Packet #233 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 1784 bytes
+Packet #234 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 1880 bytes
+Packet #235 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #236 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #237 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 1784 bytes
+Packet #238 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #239 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #240 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #241 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 1848 bytes
+Packet #242 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #243 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #244 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #245 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 1292 bytes
+Packet #246 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #247 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #248 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 93 bytes
+Packet #249 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 628 bytes
+Packet #250 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 94 bytes
+Packet #251 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 127 bytes
+Packet #252 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 127 bytes
+Packet #253 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 593 bytes
+Packet #254 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 461 bytes
+Packet #255 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 94 bytes
+Packet #256 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #257 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #258 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 96 bytes
+Packet #259 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 65 bytes
+Packet #260 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 86 bytes
+Packet #261 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #262 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 89 bytes
+Packet #263 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 66 bytes
+Packet #264 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #265 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 54 bytes
+Packet #266 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 1849 bytes
+Packet #267 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 679 bytes
+Packet #268 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #269 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.85.234.98
+Packet Length: 54 bytes
+Packet #270 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 70 bytes
+Packet #271 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 86 bytes
+Packet #272 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #273 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #274 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #275 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #276 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #277 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 465 bytes
+Packet #278 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #279 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #280 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #281 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 831 bytes
+Packet #282 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #283 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #284 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 118 bytes
+Packet #285 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 118 bytes
+Packet #286 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #287 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 146 bytes
+Packet #288 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #289 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #290 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #291 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #292 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 441 bytes
+Packet #293 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 143 bytes
+Packet #294 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 139 bytes
+Packet #295 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 143 bytes
+Packet #296 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 140 bytes
+Packet #297 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 140 bytes
+Packet #298 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 144 bytes
+Packet #299 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 904 bytes
+Packet #300 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 905 bytes
+Packet #301 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 905 bytes
+Packet #302 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 907 bytes
+Packet #303 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 907 bytes
+Packet #304 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 907 bytes
+Packet #305 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 889 bytes
+Packet #306 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #307 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #308 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #309 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 829 bytes
+Packet #310 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #311 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #312 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #313 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #314 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 467 bytes
+Packet #315 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #316 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #317 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #318 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #319 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 831 bytes
+Packet #320 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #321 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #322 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #323 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #324 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 467 bytes
+Packet #325 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 76 bytes
+Packet #326 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 76 bytes
+Packet #327 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #328 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #329 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 165 bytes
+Packet #330 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 165 bytes
+Packet #331 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 80 bytes
+Packet #332 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 158 bytes
+Packet #333 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 108 bytes
+Packet #334 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 66 bytes
+Packet #335 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #336 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 165 bytes
+Packet #337 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #338 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #339 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #340 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 54 bytes
+Packet #341 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 1817 bytes
+Packet #342 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #343 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #344 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #345 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #346 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #347 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 810 bytes
+Packet #348 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 54 bytes
+Packet #349 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 118 bytes
+Packet #350 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 146 bytes
+Packet #351 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 306 bytes
+Packet #352 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 165 bytes
+Packet #353 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 165 bytes
+Packet #354 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #355 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 233 bytes
+Packet #356 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 116 bytes
+Packet #357 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #358 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #359 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 233 bytes
+Packet #360 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 78 bytes
+Packet #361 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #362 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #363 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #364 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #365 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #366 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #367 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 317 bytes
+Packet #368 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #369 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 625 bytes
+Packet #370 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #371 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #372 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #373 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 624 bytes
+Packet #374 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #375 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #376 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 316 bytes
+Packet #377 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #378 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #379 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 85 bytes
+Packet #380 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #381 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 87 bytes
+Packet #382 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 87 bytes
+Packet #383 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #384 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #385 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 208 bytes
+Packet #386 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 194 bytes
+Packet #387 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 66 bytes
+Packet #388 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 66 bytes
+Packet #389 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #390 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 54 bytes
+Packet #391 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 1876 bytes
+Packet #392 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #393 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #394 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #395 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1195 bytes
+Packet #396 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #397 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #398 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #399 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #400 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #401 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #402 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #403 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #404 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 810 bytes
+Packet #405 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #406 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 54 bytes
+Packet #407 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 1823 bytes
+Packet #408 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 118 bytes
+Packet #409 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #410 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #411 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 1791 bytes
+Packet #412 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #413 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 233 bytes
+Packet #414 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 125 bytes
+Packet #415 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 54 bytes
+Packet #416 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 85 bytes
+Packet #417 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #418 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 62 bytes
+Packet #419 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #420 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 54 bytes
+Packet #421 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1277 bytes
+Packet #422 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #423 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 66 bytes
+Packet #424 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 66 bytes
+Packet #425 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #426 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #427 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #428 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #429 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 233 bytes
+Packet #430 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #431 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #432 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #433 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 299 bytes
+Packet #434 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #435 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #436 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #437 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #438 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #439 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #440 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #441 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 103 bytes
+Packet #442 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 118 bytes
+Packet #443 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 146 bytes
+Packet #444 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #445 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 460 bytes
+Packet #446 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 234 bytes
+Packet #447 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 233 bytes
+Packet #448 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #449 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #450 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #451 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #452 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #453 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #454 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1199 bytes
+Packet #455 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #456 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #457 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #458 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #459 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #460 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #461 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 993 bytes
+Packet #462 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 334 bytes
+Packet #463 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #464 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #465 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #466 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #467 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #468 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #469 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #470 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #471 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 103 bytes
+Packet #472 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #473 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #474 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #475 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 54 bytes
+Packet #476 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 1427 bytes
+Packet #477 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 54 bytes
+Packet #478 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 134 bytes
+Packet #479 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 146 bytes
+Packet #480 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 464 bytes
+Packet #481 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 225 bytes
+Packet #482 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 86 bytes
+Packet #483 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 79 bytes
+Packet #484 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 79 bytes
+Packet #485 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #486 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 180 bytes
+Packet #487 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #488 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 312 bytes
+Packet #489 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #490 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #491 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #492 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #493 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #494 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #495 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #496 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #497 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #498 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #499 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #500 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #501 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #502 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #503 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1199 bytes
+Packet #504 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #505 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #506 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #507 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #508 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #509 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #510 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #511 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #512 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #513 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #514 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #515 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #516 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 993 bytes
+Packet #517 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 80 bytes
+Packet #518 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 95 bytes
+Packet #519 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #520 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 334 bytes
+Packet #521 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 219 bytes
+Packet #522 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #523 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 403 bytes
+Packet #524 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 87 bytes
+Packet #525 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #526 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #527 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 233 bytes
+Packet #528 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 116 bytes
+Packet #529 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 54 bytes
+Packet #530 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 91 bytes
+Packet #531 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #532 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #533 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #534 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #535 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #536 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #537 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #538 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #539 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #540 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 1162 bytes
+Packet #541 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #542 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 233 bytes
+Packet #543 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 116 bytes
+Packet #544 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #545 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #546 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #547 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 85 bytes
+Packet #548 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #549 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #550 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #551 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #552 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 651 bytes
+Packet #553 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #554 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #555 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #556 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #557 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #558 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #559 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #560 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #561 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 96 bytes
+Packet #562 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #563 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #564 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #565 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #566 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #567 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 87 bytes
+Packet #568 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #569 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #570 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 136 bytes
+Packet #571 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #572 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #573 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #574 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #575 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 77 bytes
+Packet #576 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 77 bytes
+Packet #577 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #578 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #579 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 86 bytes
+Packet #580 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 1116 bytes
+Packet #581 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #582 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 853 bytes
+Packet #583 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 77 bytes
+Packet #584 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 70 bytes
+Packet #585 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 85 bytes
+Packet #586 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 74 bytes
+Packet #587 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 80 bytes
+Packet #588 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 77 bytes
+Packet #589 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 189 bytes
+Packet #590 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.164.144.117
+Packet Length: 66 bytes
+Packet #591 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 93 bytes
+Packet #592 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 102 bytes
+Packet #593 captured:
+Source IP: 10.5.28.169
+Destination IP: 142.250.195.99
+Packet Length: 1292 bytes
+Packet #594 captured:
+Source IP: 10.5.28.169
+Destination IP: 142.250.195.99
+Packet Length: 1292 bytes
+Packet #595 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #596 captured:
+Source IP: 104.21.32.1
+Destination IP: 10.5.28.169
+Packet Length: 65 bytes
+Packet #597 captured:
+Source IP: 18.164.144.117
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #598 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.164.144.117
+Packet Length: 54 bytes
+Packet #599 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.164.144.117
+Packet Length: 407 bytes
+Packet #600 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 86 bytes
+Packet #601 captured:
+Source IP: 18.164.144.117
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #602 captured:
+Source IP: 18.164.144.117
+Destination IP: 10.5.28.169
+Packet Length: 201 bytes
+Packet #603 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #604 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 74 bytes
+Packet #605 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.164.144.117
+Packet Length: 274 bytes
+Packet #606 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 77 bytes
+Packet #607 captured:
+Source IP: 142.250.195.99
+Destination IP: 10.5.28.169
+Packet Length: 82 bytes
+Packet #608 captured:
+Source IP: 142.250.195.99
+Destination IP: 10.5.28.169
+Packet Length: 1292 bytes
+Packet #609 captured:
+Source IP: 142.250.195.99
+Destination IP: 10.5.28.169
+Packet Length: 1292 bytes
+Packet #610 captured:
+Source IP: 142.250.195.99
+Destination IP: 10.5.28.169
+Packet Length: 1292 bytes
+Packet #611 captured:
+Source IP: 18.164.144.117
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #612 captured:
+Source IP: 10.5.28.169
+Destination IP: 142.250.195.99
+Packet Length: 1292 bytes
+Packet #613 captured:
+Source IP: 18.164.144.117
+Destination IP: 10.5.28.169
+Packet Length: 911 bytes
+Packet #614 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 93 bytes
+Packet #615 captured:
+Source IP: 142.250.195.99
+Destination IP: 10.5.28.169
+Packet Length: 1292 bytes
+Packet #616 captured:
+Source IP: 142.250.195.99
+Destination IP: 10.5.28.169
+Packet Length: 1292 bytes
+Packet #617 captured:
+Source IP: 142.250.195.99
+Destination IP: 10.5.28.169
+Packet Length: 1286 bytes
+Packet #618 captured:
+Source IP: 10.5.28.169
+Destination IP: 142.250.195.99
+Packet Length: 81 bytes
+Packet #619 captured:
+Source IP: 10.5.28.169
+Destination IP: 142.250.195.99
+Packet Length: 82 bytes
+Packet #620 captured:
+Source IP: 10.5.28.169
+Destination IP: 142.250.195.99
+Packet Length: 79 bytes
+Packet #621 captured:
+Source IP: 10.5.28.169
+Destination IP: 142.250.195.99
+Packet Length: 125 bytes
+Packet #622 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 70 bytes
+Packet #623 captured:
+Source IP: 10.5.28.169
+Destination IP: 142.250.195.99
+Packet Length: 116 bytes
+Packet #624 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 129 bytes
+Packet #625 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.164.144.117
+Packet Length: 54 bytes
+Packet #626 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 112 bytes
+Packet #627 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #628 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 341 bytes
+Packet #629 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 341 bytes
+Packet #630 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 116 bytes
+Packet #631 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #632 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #633 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #634 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 54 bytes
+Packet #635 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 85 bytes
+Packet #636 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 98 bytes
+Packet #637 captured:
+Source IP: 10.5.28.169
+Destination IP: 142.250.195.99
+Packet Length: 74 bytes
+Packet #638 captured:
+Source IP: 142.250.195.99
+Destination IP: 10.5.28.169
+Packet Length: 83 bytes
+Packet #639 captured:
+Source IP: 142.250.195.99
+Destination IP: 10.5.28.169
+Packet Length: 990 bytes
+Packet #640 captured:
+Source IP: 142.250.195.99
+Destination IP: 10.5.28.169
+Packet Length: 163 bytes
+Packet #641 captured:
+Source IP: 10.5.28.169
+Destination IP: 142.250.195.99
+Packet Length: 75 bytes
+Packet #642 captured:
+Source IP: 10.5.28.169
+Destination IP: 142.250.195.99
+Packet Length: 75 bytes
+Packet #643 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #644 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 70 bytes
+Packet #645 captured:
+Source IP: 142.250.195.99
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #646 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 844 bytes
+Packet #647 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 54 bytes
+Packet #648 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 130 bytes
+Packet #649 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 225 bytes
+Packet #650 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 102 bytes
+Packet #651 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 70 bytes
+Packet #652 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 70 bytes
+Packet #653 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 79 bytes
+Packet #654 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 79 bytes
+Packet #655 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 102 bytes
+Packet #656 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 218 bytes
+Packet #657 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #658 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #659 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 95 bytes
+Packet #660 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 290 bytes
+Packet #661 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 394 bytes
+Packet #662 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.164.144.117
+Packet Length: 294 bytes
+Packet #663 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 80 bytes
+Packet #664 captured:
+Source IP: 18.164.144.117
+Destination IP: 10.5.28.169
+Packet Length: 931 bytes
+Packet #665 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 79 bytes
+Packet #666 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #667 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #668 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #669 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #670 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #671 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 973 bytes
+Packet #672 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #673 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 93 bytes
+Packet #674 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 127 bytes
+Packet #675 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 127 bytes
+Packet #676 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 544 bytes
+Packet #677 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #678 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #679 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.164.144.117
+Packet Length: 54 bytes
+Packet #680 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 79 bytes
+Packet #681 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #682 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 95 bytes
+Packet #683 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 128 bytes
+Packet #684 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 66 bytes
+Packet #685 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #686 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #687 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 522 bytes
+Packet #688 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #689 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #690 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 91 bytes
+Packet #691 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 85 bytes
+Packet #692 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 65 bytes
+Packet #693 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 89 bytes
+Packet #694 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #695 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #696 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 89 bytes
+Packet #697 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #698 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 128 bytes
+Packet #699 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 1140 bytes
+Packet #700 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 54 bytes
+Packet #701 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 1292 bytes
+Packet #702 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 1292 bytes
+Packet #703 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 193 bytes
+Packet #704 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #705 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #706 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #707 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 301 bytes
+Packet #708 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 122 bytes
+Packet #709 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 84 bytes
+Packet #710 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 85 bytes
+Packet #711 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 115 bytes
+Packet #712 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 114 bytes
+Packet #713 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 479 bytes
+Packet #714 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 81 bytes
+Packet #715 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 154 bytes
+Packet #716 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 90 bytes
+Packet #717 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 282 bytes
+Packet #718 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 70 bytes
+Packet #719 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #720 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #721 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #722 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 858 bytes
+Packet #723 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #724 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #725 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #726 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #727 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #728 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #729 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #730 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #731 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #732 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #733 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #734 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #735 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #736 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #737 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #738 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #739 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #740 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #741 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #742 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #743 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #744 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #745 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 80 bytes
+Packet #746 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #747 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #748 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #749 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #750 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #751 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #752 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #753 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #754 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #755 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #756 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #757 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #758 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #759 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #760 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #761 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #762 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #763 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #764 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #765 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #766 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #767 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #768 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #769 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #770 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #771 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #772 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #773 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #774 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #775 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #776 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #777 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #778 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #779 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #780 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #781 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #782 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #783 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #784 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #785 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #786 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #787 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #788 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #789 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #790 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #791 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #792 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #793 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #794 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #795 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #796 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #797 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #798 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #799 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #800 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #801 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #802 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 410 bytes
+Packet #803 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #804 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #805 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #806 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 81 bytes
+Packet #807 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #808 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #809 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #810 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #811 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #812 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #813 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #814 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #815 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #816 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #817 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 76 bytes
+Packet #818 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 86 bytes
+Packet #819 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 90 bytes
+Packet #820 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #821 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #822 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #823 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 637 bytes
+Packet #824 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 87 bytes
+Packet #825 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 87 bytes
+Packet #826 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 87 bytes
+Packet #827 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 87 bytes
+Packet #828 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 906 bytes
+Packet #829 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 86 bytes
+Packet #830 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 906 bytes
+Packet #831 captured:
+Source IP: 38.106.231.204
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #832 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 54 bytes
+Packet #833 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 500 bytes
+Packet #834 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 86 bytes
+Packet #835 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #836 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #837 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #838 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 420 bytes
+Packet #839 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 85 bytes
+Packet #840 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 77 bytes
+Packet #841 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 236 bytes
+Packet #842 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 66 bytes
+Packet #843 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 54 bytes
+Packet #844 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 66 bytes
+Packet #845 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.85.234.98
+Packet Length: 54 bytes
+Packet #846 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 54 bytes
+Packet #847 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 54 bytes
+Packet #848 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #849 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.28
+Packet Length: 54 bytes
+Packet #850 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #851 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 83 bytes
+Packet #852 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 218 bytes
+Packet #853 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 77 bytes
+Packet #854 captured:
+Source IP: 52.85.234.98
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #855 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.85.234.98
+Packet Length: 54 bytes
+Packet #856 captured:
+Source IP: 18.67.233.28
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #857 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.28
+Packet Length: 54 bytes
+Packet #858 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 83 bytes
+Packet #859 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 189 bytes
+Packet #860 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 195 bytes
+Packet #861 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 83 bytes
+Packet #862 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 83 bytes
+Packet #863 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 78 bytes
+Packet #864 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #865 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.161.111.99
+Packet Length: 54 bytes
+Packet #866 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 66 bytes
+Packet #867 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 331 bytes
+Packet #868 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 195 bytes
+Packet #869 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 1292 bytes
+Packet #870 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 1292 bytes
+Packet #871 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #872 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #873 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 504 bytes
+Packet #874 captured:
+Source IP: 38.106.231.204
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #875 captured:
+Source IP: 38.106.231.204
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #876 captured:
+Source IP: 38.106.231.204
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #877 captured:
+Source IP: 38.106.231.204
+Destination IP: 10.5.28.169
+Packet Length: 1047 bytes
+Packet #878 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 54 bytes
+Packet #879 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #880 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #881 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #882 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #883 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 803 bytes
+Packet #884 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 147 bytes
+Packet #885 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #886 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 254 bytes
+Packet #887 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #888 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 341 bytes
+Packet #889 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 341 bytes
+Packet #890 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 316 bytes
+Packet #891 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #892 captured:
+Source IP: 52.9.81.184
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #893 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #894 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #895 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #896 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 579 bytes
+Packet #897 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.9.81.184
+Packet Length: 54 bytes
+Packet #898 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 66 bytes
+Packet #899 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 93 bytes
+Packet #900 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 133 bytes
+Packet #901 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 126 bytes
+Packet #902 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 1292 bytes
+Packet #903 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 1292 bytes
+Packet #904 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 170 bytes
+Packet #905 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 78 bytes
+Packet #906 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #907 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 78 bytes
+Packet #908 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #909 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #910 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 54 bytes
+Packet #911 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #912 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 78 bytes
+Packet #913 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.26.12.130
+Packet Length: 54 bytes
+Packet #914 captured:
+Source IP: 52.26.12.130
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #915 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #916 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 54 bytes
+Packet #917 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 1880 bytes
+Packet #918 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #919 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #920 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #921 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 54 bytes
+Packet #922 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 66 bytes
+Packet #923 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 1782 bytes
+Packet #924 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 466 bytes
+Packet #925 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 94 bytes
+Packet #926 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #927 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #928 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 96 bytes
+Packet #929 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 85 bytes
+Packet #930 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 85 bytes
+Packet #931 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 89 bytes
+Packet #932 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #933 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #934 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #935 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #936 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #937 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 133 bytes
+Packet #938 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 126 bytes
+Packet #939 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1286 bytes
+Packet #940 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #941 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #942 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #943 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #944 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #945 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #946 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #947 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #948 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #949 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #950 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #951 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #952 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #953 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 700 bytes
+Packet #954 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 54 bytes
+Packet #955 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #956 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #957 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 1292 bytes
+Packet #958 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 857 bytes
+Packet #959 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 436 bytes
+Packet #960 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 118 bytes
+Packet #961 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 70 bytes
+Packet #962 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 86 bytes
+Packet #963 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 527 bytes
+Packet #964 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #965 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #966 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 85 bytes
+Packet #967 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 91 bytes
+Packet #968 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 89 bytes
+Packet #969 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 566 bytes
+Packet #970 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 785 bytes
+Packet #971 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 1144 bytes
+Packet #972 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 85 bytes
+Packet #973 captured:
+Source IP: 38.106.231.204
+Destination IP: 10.5.28.169
+Packet Length: 328 bytes
+Packet #974 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 243 bytes
+Packet #975 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 54 bytes
+Packet #976 captured:
+Source IP: 104.21.22.90
+Destination IP: 10.5.28.169
+Packet Length: 70 bytes
+Packet #977 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 195 bytes
+Packet #978 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 86 bytes
+Packet #979 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 403 bytes
+Packet #980 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.164.144.117
+Packet Length: 199 bytes
+Packet #981 captured:
+Source IP: 18.164.144.117
+Destination IP: 10.5.28.169
+Packet Length: 911 bytes
+Packet #982 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #983 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #984 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 2033 bytes
+Packet #985 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #986 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #987 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #988 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #989 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 830 bytes
+Packet #990 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 54 bytes
+Packet #991 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 118 bytes
+Packet #992 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 146 bytes
+Packet #993 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 462 bytes
+Packet #994 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 1014 bytes
+Packet #995 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #996 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.164.144.117
+Packet Length: 54 bytes
+Packet #997 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #998 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #999 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 1242 bytes
+Packet #1000 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 728 bytes
+Packet #1001 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 85 bytes
+Packet #1002 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 68 bytes
+Packet #1003 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 85 bytes
+Packet #1004 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 86 bytes
+Packet #1005 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 54 bytes
+Packet #1006 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1007 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 66 bytes
+Packet #1008 captured:
+Source IP: 38.106.231.204
+Destination IP: 10.5.28.169
+Packet Length: 108 bytes
+Packet #1009 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 816 bytes
+Packet #1010 captured:
+Source IP: 104.21.80.1
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1011 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 54 bytes
+Packet #1012 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #1013 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 80 bytes
+Packet #1014 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 66 bytes
+Packet #1015 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 77 bytes
+Packet #1016 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 77 bytes
+Packet #1017 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1018 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 288 bytes
+Packet #1019 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1020 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 201 bytes
+Packet #1021 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 187 bytes
+Packet #1022 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 184 bytes
+Packet #1023 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 198 bytes
+Packet #1024 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 66 bytes
+Packet #1025 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.67
+Packet Length: 66 bytes
+Packet #1026 captured:
+Source IP: 18.67.233.67
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1027 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.67
+Packet Length: 54 bytes
+Packet #1028 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1029 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 54 bytes
+Packet #1030 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.67
+Packet Length: 1813 bytes
+Packet #1031 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 1816 bytes
+Packet #1032 captured:
+Source IP: 18.67.233.67
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1033 captured:
+Source IP: 18.67.233.67
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1034 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1035 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 233 bytes
+Packet #1036 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 116 bytes
+Packet #1037 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 54 bytes
+Packet #1038 captured:
+Source IP: 18.67.233.67
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1039 captured:
+Source IP: 18.67.233.67
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1040 captured:
+Source IP: 18.67.233.67
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1041 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.67
+Packet Length: 54 bytes
+Packet #1042 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1043 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 66 bytes
+Packet #1044 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 85 bytes
+Packet #1045 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1046 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1047 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1048 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1049 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 54 bytes
+Packet #1050 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1051 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 159 bytes
+Packet #1052 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 781 bytes
+Packet #1053 captured:
+Source IP: 18.67.233.67
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1054 captured:
+Source IP: 18.67.233.67
+Destination IP: 10.5.28.169
+Packet Length: 127 bytes
+Packet #1055 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.67
+Packet Length: 54 bytes
+Packet #1056 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 54 bytes
+Packet #1057 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 54 bytes
+Packet #1058 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 86 bytes
+Packet #1059 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 86 bytes
+Packet #1060 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 118 bytes
+Packet #1061 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.67
+Packet Length: 118 bytes
+Packet #1062 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 146 bytes
+Packet #1063 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 303 bytes
+Packet #1064 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 110 bytes
+Packet #1065 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.67
+Packet Length: 146 bytes
+Packet #1066 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.67
+Packet Length: 302 bytes
+Packet #1067 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1068 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 200 bytes
+Packet #1069 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 116 bytes
+Packet #1070 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1071 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1072 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 54 bytes
+Packet #1073 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 85 bytes
+Packet #1074 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1075 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 54 bytes
+Packet #1076 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1077 captured:
+Source IP: 18.67.233.67
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1078 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 819 bytes
+Packet #1079 captured:
+Source IP: 18.67.233.67
+Destination IP: 10.5.28.169
+Packet Length: 200 bytes
+Packet #1080 captured:
+Source IP: 18.67.233.67
+Destination IP: 10.5.28.169
+Packet Length: 125 bytes
+Packet #1081 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 54 bytes
+Packet #1082 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.67
+Packet Length: 54 bytes
+Packet #1083 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.67
+Packet Length: 85 bytes
+Packet #1084 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1085 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1086 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1087 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1088 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1089 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1090 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 54 bytes
+Packet #1091 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1092 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1093 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 1289 bytes
+Packet #1094 captured:
+Source IP: 18.67.233.67
+Destination IP: 10.5.28.169
+Packet Length: 347 bytes
+Packet #1095 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 54 bytes
+Packet #1096 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 221 bytes
+Packet #1097 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 235 bytes
+Packet #1098 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.88.114.102
+Packet Length: 66 bytes
+Packet #1099 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.67
+Packet Length: 54 bytes
+Packet #1100 captured:
+Source IP: 18.67.233.67
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1101 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1102 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1103 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1104 captured:
+Source IP: 10.5.28.169
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #1105 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1106 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 1848 bytes
+Packet #1107 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1108 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1109 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 1784 bytes
+Packet #1110 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 290 bytes
+Packet #1111 captured:
+Source IP: 38.106.231.204
+Destination IP: 10.5.28.169
+Packet Length: 388 bytes
+Packet #1112 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 54 bytes
+Packet #1113 captured:
+Source IP: 23.208.65.9
+Destination IP: 10.5.28.169
+Packet Length: 394 bytes
+Packet #1114 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.164.144.117
+Packet Length: 294 bytes
+Packet #1115 captured:
+Source IP: 18.164.144.117
+Destination IP: 10.5.28.169
+Packet Length: 931 bytes
+Packet #1116 captured:
+Source IP: 10.5.28.169
+Destination IP: 23.208.65.9
+Packet Length: 54 bytes
+Packet #1117 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.164.144.117
+Packet Length: 54 bytes
+Packet #1118 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1119 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1120 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 1784 bytes
+Packet #1121 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 78 bytes
+Packet #1122 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1123 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 54 bytes
+Packet #1124 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1125 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.88.114.102
+Packet Length: 54 bytes
+Packet #1126 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.88.114.102
+Packet Length: 1822 bytes
+Packet #1127 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1128 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1129 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1130 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1131 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 830 bytes
+Packet #1132 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 118 bytes
+Packet #1133 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1134 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1135 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 146 bytes
+Packet #1136 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 349 bytes
+Packet #1137 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 112 bytes
+Packet #1138 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 116 bytes
+Packet #1139 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 1495 bytes
+Packet #1140 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 1495 bytes
+Packet #1141 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 1497 bytes
+Packet #1142 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 66 bytes
+Packet #1143 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1144 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1145 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1146 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1147 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 466 bytes
+Packet #1148 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 76 bytes
+Packet #1149 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1150 captured:
+Source IP: 38.106.231.204
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1151 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 54 bytes
+Packet #1152 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 76 bytes
+Packet #1153 captured:
+Source IP: 185.125.190.29
+Destination IP: 10.5.28.169
+Packet Length: 78 bytes
+Packet #1154 captured:
+Source IP: 10.5.28.169
+Destination IP: 185.125.190.29
+Packet Length: 54 bytes
+Packet #1155 captured:
+Source IP: 185.125.190.29
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1156 captured:
+Source IP: 10.5.28.169
+Destination IP: 185.125.190.29
+Packet Length: 54 bytes
+Packet #1157 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 121 bytes
+Packet #1158 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1159 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 76 bytes
+Packet #1160 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1161 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1162 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1163 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 76 bytes
+Packet #1164 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1165 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 830 bytes
+Packet #1166 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1167 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 121 bytes
+Packet #1168 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 192 bytes
+Packet #1169 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 1292 bytes
+Packet #1170 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 1292 bytes
+Packet #1171 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1172 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1173 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1174 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 788 bytes
+Packet #1175 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.88.114.102
+Packet Length: 54 bytes
+Packet #1176 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1177 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1178 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1179 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 305 bytes
+Packet #1180 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 122 bytes
+Packet #1181 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 84 bytes
+Packet #1182 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.88.114.102
+Packet Length: 118 bytes
+Packet #1183 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.88.114.102
+Packet Length: 146 bytes
+Packet #1184 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 85 bytes
+Packet #1185 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.88.114.102
+Packet Length: 473 bytes
+Packet #1186 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.88.114.102
+Packet Length: 1014 bytes
+Packet #1187 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 115 bytes
+Packet #1188 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 113 bytes
+Packet #1189 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 899 bytes
+Packet #1190 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 459 bytes
+Packet #1191 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 81 bytes
+Packet #1192 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 154 bytes
+Packet #1193 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 314 bytes
+Packet #1194 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 90 bytes
+Packet #1195 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 76 bytes
+Packet #1196 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 90 bytes
+Packet #1197 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 76 bytes
+Packet #1198 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1199 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1200 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1201 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 233 bytes
+Packet #1202 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 116 bytes
+Packet #1203 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1204 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 85 bytes
+Packet #1205 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1206 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1207 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1208 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1209 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1210 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 318 bytes
+Packet #1211 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1212 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 317 bytes
+Packet #1213 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1214 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1215 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 316 bytes
+Packet #1216 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1217 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1218 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1219 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 70 bytes
+Packet #1220 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 70 bytes
+Packet #1221 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 70 bytes
+Packet #1222 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 70 bytes
+Packet #1223 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 70 bytes
+Packet #1224 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 70 bytes
+Packet #1225 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1050 bytes
+Packet #1226 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 666 bytes
+Packet #1227 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 81 bytes
+Packet #1228 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1229 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 233 bytes
+Packet #1230 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 116 bytes
+Packet #1231 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1232 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1233 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.88.114.102
+Packet Length: 54 bytes
+Packet #1234 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.88.114.102
+Packet Length: 85 bytes
+Packet #1235 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 484 bytes
+Packet #1236 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 455 bytes
+Packet #1237 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 663 bytes
+Packet #1238 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1239 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.88.114.102
+Packet Length: 54 bytes
+Packet #1240 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 66 bytes
+Packet #1241 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 146 bytes
+Packet #1242 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 102 bytes
+Packet #1243 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 146 bytes
+Packet #1244 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 66 bytes
+Packet #1245 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 102 bytes
+Packet #1246 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 66 bytes
+Packet #1247 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 90 bytes
+Packet #1248 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 90 bytes
+Packet #1249 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 76 bytes
+Packet #1250 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1251 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 54 bytes
+Packet #1252 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 1774 bytes
+Packet #1253 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1254 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 54 bytes
+Packet #1255 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 1806 bytes
+Packet #1256 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1257 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1258 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1259 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1260 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1261 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1262 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1263 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1264 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1265 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 743 bytes
+Packet #1266 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 54 bytes
+Packet #1267 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 128 bytes
+Packet #1268 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 146 bytes
+Packet #1269 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 292 bytes
+Packet #1270 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1271 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1272 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1273 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1274 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 742 bytes
+Packet #1275 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 54 bytes
+Packet #1276 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 128 bytes
+Packet #1277 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 146 bytes
+Packet #1278 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 292 bytes
+Packet #1279 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1004 bytes
+Packet #1280 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 85 bytes
+Packet #1281 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1282 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 342 bytes
+Packet #1283 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 553 bytes
+Packet #1284 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1285 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 93 bytes
+Packet #1286 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 54 bytes
+Packet #1287 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 93 bytes
+Packet #1288 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1004 bytes
+Packet #1289 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 85 bytes
+Packet #1290 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1291 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 342 bytes
+Packet #1292 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 553 bytes
+Packet #1293 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1294 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 93 bytes
+Packet #1295 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 54 bytes
+Packet #1296 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 93 bytes
+Packet #1297 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1298 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1299 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1300 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 666 bytes
+Packet #1301 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 602 bytes
+Packet #1302 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 81 bytes
+Packet #1303 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1304 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 1292 bytes
+Packet #1305 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 1292 bytes
+Packet #1306 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 251 bytes
+Packet #1307 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 245 bytes
+Packet #1308 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1309 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 54 bytes
+Packet #1310 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 1969 bytes
+Packet #1311 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 90 bytes
+Packet #1312 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1313 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1314 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 82 bytes
+Packet #1315 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 137 bytes
+Packet #1316 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 553 bytes
+Packet #1317 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1318 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 93 bytes
+Packet #1319 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1292 bytes
+Packet #1320 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1292 bytes
+Packet #1321 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1292 bytes
+Packet #1322 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 54 bytes
+Packet #1323 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 54 bytes
+Packet #1324 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 1292 bytes
+Packet #1325 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 93 bytes
+Packet #1326 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 137 bytes
+Packet #1327 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 553 bytes
+Packet #1328 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1329 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 54 bytes
+Packet #1330 captured:
+Source IP: 10.5.28.169
+Destination IP: 44.224.182.120
+Packet Length: 66 bytes
+Packet #1331 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 79 bytes
+Packet #1332 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 485 bytes
+Packet #1333 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1334 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1292 bytes
+Packet #1335 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1292 bytes
+Packet #1336 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1288 bytes
+Packet #1337 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1338 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 81 bytes
+Packet #1339 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 205 bytes
+Packet #1340 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 456 bytes
+Packet #1341 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 1292 bytes
+Packet #1342 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 132 bytes
+Packet #1343 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 207 bytes
+Packet #1344 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 208 bytes
+Packet #1345 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 976 bytes
+Packet #1346 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 163 bytes
+Packet #1347 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 90 bytes
+Packet #1348 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 75 bytes
+Packet #1349 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 75 bytes
+Packet #1350 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 90 bytes
+Packet #1351 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 76 bytes
+Packet #1352 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 67 bytes
+Packet #1353 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 69 bytes
+Packet #1354 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 66 bytes
+Packet #1355 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1356 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1357 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 288 bytes
+Packet #1358 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1359 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1360 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1361 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 986 bytes
+Packet #1362 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 76 bytes
+Packet #1363 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 80 bytes
+Packet #1364 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1365 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1366 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1050 bytes
+Packet #1367 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 76 bytes
+Packet #1368 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 118 bytes
+Packet #1369 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 146 bytes
+Packet #1370 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 462 bytes
+Packet #1371 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 1013 bytes
+Packet #1372 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1373 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 76 bytes
+Packet #1374 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1375 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 122 bytes
+Packet #1376 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 76 bytes
+Packet #1377 captured:
+Source IP: 18.161.111.99
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1378 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 826 bytes
+Packet #1379 captured:
+Source IP: 44.224.182.120
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1380 captured:
+Source IP: 10.5.28.169
+Destination IP: 44.224.182.120
+Packet Length: 54 bytes
+Packet #1381 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1382 captured:
+Source IP: 10.5.28.169
+Destination IP: 44.224.182.120
+Packet Length: 1848 bytes
+Packet #1383 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 80 bytes
+Packet #1384 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1385 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1386 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1387 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1388 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 1274 bytes
+Packet #1389 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 154 bytes
+Packet #1390 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 76 bytes
+Packet #1391 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 76 bytes
+Packet #1392 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 76 bytes
+Packet #1393 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 90 bytes
+Packet #1394 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 90 bytes
+Packet #1395 captured:
+Source IP: 38.106.231.204
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1396 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 54 bytes
+Packet #1397 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1398 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 233 bytes
+Packet #1399 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 116 bytes
+Packet #1400 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1401 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1402 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 159 bytes
+Packet #1403 captured:
+Source IP: 44.224.182.120
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1404 captured:
+Source IP: 44.224.182.120
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1405 captured:
+Source IP: 44.224.182.120
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1406 captured:
+Source IP: 44.224.182.120
+Destination IP: 10.5.28.169
+Packet Length: 466 bytes
+Packet #1407 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 54 bytes
+Packet #1408 captured:
+Source IP: 10.5.28.169
+Destination IP: 44.224.182.120
+Packet Length: 54 bytes
+Packet #1409 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 437 bytes
+Packet #1410 captured:
+Source IP: 10.5.28.169
+Destination IP: 44.224.182.120
+Packet Length: 118 bytes
+Packet #1411 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 85 bytes
+Packet #1412 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 298 bytes
+Packet #1413 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 253 bytes
+Packet #1414 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.88.114.102
+Packet Length: 153 bytes
+Packet #1415 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.88.114.102
+Packet Length: 1013 bytes
+Packet #1416 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 73 bytes
+Packet #1417 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 757 bytes
+Packet #1418 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 64 bytes
+Packet #1419 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 77 bytes
+Packet #1420 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 571 bytes
+Packet #1421 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 64 bytes
+Packet #1422 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 77 bytes
+Packet #1423 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 65 bytes
+Packet #1424 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 73 bytes
+Packet #1425 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 70 bytes
+Packet #1426 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 70 bytes
+Packet #1427 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 102 bytes
+Packet #1428 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 146 bytes
+Packet #1429 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.4.4
+Packet Length: 66 bytes
+Packet #1430 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.4.4
+Packet Length: 66 bytes
+Packet #1431 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1432 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.4.4
+Packet Length: 54 bytes
+Packet #1433 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1434 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.4.4
+Packet Length: 54 bytes
+Packet #1435 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.4.4
+Packet Length: 1870 bytes
+Packet #1436 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.4.4
+Packet Length: 1774 bytes
+Packet #1437 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1438 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1439 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1440 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1441 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.4.4
+Packet Length: 54 bytes
+Packet #1442 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.4.4
+Packet Length: 54 bytes
+Packet #1443 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1444 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1445 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #1446 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 1397 bytes
+Packet #1447 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.4.4
+Packet Length: 54 bytes
+Packet #1448 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1449 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.4.4
+Packet Length: 54 bytes
+Packet #1450 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1451 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1452 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #1453 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 743 bytes
+Packet #1454 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 54 bytes
+Packet #1455 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.67
+Packet Length: 54 bytes
+Packet #1456 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.88.114.102
+Packet Length: 54 bytes
+Packet #1457 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 54 bytes
+Packet #1458 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 54 bytes
+Packet #1459 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 92 bytes
+Packet #1460 captured:
+Source IP: 10.5.28.169
+Destination IP: 163.70.144.35
+Packet Length: 95 bytes
+Packet #1461 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.32.1
+Packet Length: 104 bytes
+Packet #1462 captured:
+Source IP: 10.5.28.169
+Destination IP: 142.250.195.99
+Packet Length: 94 bytes
+Packet #1463 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 104 bytes
+Packet #1464 captured:
+Source IP: 10.5.28.169
+Destination IP: 157.240.1.9
+Packet Length: 95 bytes
+Packet #1465 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.22.90
+Packet Length: 104 bytes
+Packet #1466 captured:
+Source IP: 10.5.28.169
+Destination IP: 104.21.80.1
+Packet Length: 104 bytes
+Packet #1467 captured:
+Source IP: 10.5.28.169
+Destination IP: 44.224.182.120
+Packet Length: 54 bytes
+Packet #1468 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1469 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 54 bytes
+Packet #1470 captured:
+Source IP: 18.67.233.67
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1471 captured:
+Source IP: 18.67.233.109
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1472 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.67
+Packet Length: 54 bytes
+Packet #1473 captured:
+Source IP: 10.5.28.169
+Destination IP: 18.67.233.109
+Packet Length: 54 bytes
+Packet #1474 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1475 captured:
+Source IP: 157.240.1.9
+Destination IP: 10.5.28.169
+Packet Length: 75 bytes
+Packet #1476 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1477 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1478 captured:
+Source IP: 8.8.4.4
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1479 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1480 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 54 bytes
+Packet #1481 captured:
+Source IP: 163.70.144.35
+Destination IP: 10.5.28.169
+Packet Length: 75 bytes
+Packet #1482 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1483 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 54 bytes
+Packet #1484 captured:
+Source IP: 38.106.231.204
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1485 captured:
+Source IP: 38.106.231.204
+Destination IP: 10.5.28.169
+Packet Length: 163 bytes
+Packet #1486 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 270 bytes
+Packet #1487 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 663 bytes
+Packet #1488 captured:
+Source IP: 10.5.28.169
+Destination IP: 52.88.114.102
+Packet Length: 54 bytes
+Packet #1489 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 85 bytes
+Packet #1490 captured:
+Source IP: 44.224.182.120
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1491 captured:
+Source IP: 44.224.182.120
+Destination IP: 10.5.28.169
+Packet Length: 233 bytes
+Packet #1492 captured:
+Source IP: 10.5.28.169
+Destination IP: 44.224.182.120
+Packet Length: 54 bytes
+Packet #1493 captured:
+Source IP: 44.224.182.120
+Destination IP: 10.5.28.169
+Packet Length: 116 bytes
+Packet #1494 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1495 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 78 bytes
+Packet #1496 captured:
+Source IP: 52.88.114.102
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1497 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 78 bytes
+Packet #1498 captured:
+Source IP: 54.70.241.188
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1499 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 78 bytes
+Packet #1500 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1501 captured:
+Source IP: 10.5.28.169
+Destination IP: 54.70.241.188
+Packet Length: 54 bytes
+Packet #1502 captured:
+Source IP: 10.5.28.169
+Destination IP: 34.214.180.248
+Packet Length: 54 bytes
+Packet #1503 captured:
+Source IP: 44.224.182.120
+Destination IP: 10.5.28.169
+Packet Length: 78 bytes
+Packet #1504 captured:
+Source IP: 44.224.182.120
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1505 captured:
+Source IP: 38.106.231.204
+Destination IP: 10.5.28.169
+Packet Length: 108 bytes
+Packet #1506 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 852 bytes
+Packet #1507 captured:
+Source IP: 34.214.180.248
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #1508 captured:
+Source IP: 38.106.231.204
+Destination IP: 10.5.28.169
+Packet Length: 388 bytes
+Packet #1509 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 54 bytes
+Packet #1510 captured:
+Source IP: 38.106.231.204
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #1511 captured:
+Source IP: 10.5.28.169
+Destination IP: 38.106.231.204
+Packet Length: 54 bytes
+Packet #1512 captured:
+Source IP: 10.5.28.169
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #1 captured:
+Source IP: 10.5.28.169
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #2 captured:
+Source IP: 10.5.28.169
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #3 captured:
+Source IP: 10.5.28.169
+Destination IP: 192.168.102.1
+Packet Length: 91 bytes
+Packet #4 captured:
+Source IP: 10.5.28.169
+Destination IP: 8.8.8.8
+Packet Length: 91 bytes
+Packet #5 captured:
+Source IP: 8.8.8.8
+Destination IP: 10.5.28.169
+Packet Length: 221 bytes
+Packet #6 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 66 bytes
+Packet #7 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #8 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #9 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 268 bytes
+Packet #10 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #11 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #12 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 1048 bytes
+Packet #13 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #14 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 212 bytes
+Packet #15 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 105 bytes
+Packet #16 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 123 bytes
+Packet #17 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #18 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 141 bytes
+Packet #19 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 254 bytes
+Packet #20 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 92 bytes
+Packet #21 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #22 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 92 bytes
+Packet #23 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #24 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #25 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 66 bytes
+Packet #26 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 390 bytes
+Packet #27 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #28 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #29 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 268 bytes
+Packet #30 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #31 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 96 bytes
+Packet #32 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #33 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #34 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 1436 bytes
+Packet #35 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 1048 bytes
+Packet #36 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #37 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #38 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 212 bytes
+Packet #39 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 105 bytes
+Packet #40 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 123 bytes
+Packet #41 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #42 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 141 bytes
+Packet #43 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 816 bytes
+Packet #44 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 92 bytes
+Packet #45 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 92 bytes
+Packet #46 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #47 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #48 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 409 bytes
+Packet #49 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #50 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 66 bytes
+Packet #51 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 96 bytes
+Packet #52 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #53 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #54 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 66 bytes
+Packet #55 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #56 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 268 bytes
+Packet #57 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #58 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #59 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 1254 bytes
+Packet #60 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 212 bytes
+Packet #61 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #62 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 212 bytes
+Packet #63 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 105 bytes
+Packet #64 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 123 bytes
+Packet #65 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #66 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 141 bytes
+Packet #67 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 599 bytes
+Packet #68 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 92 bytes
+Packet #69 captured:
+Source IP: 10.5.28.169
+Destination IP: 239.255.255.250
+Packet Length: 143 bytes
+Packet #70 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 92 bytes
+Packet #71 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #72 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #73 captured:
+Source IP: 52.109.56.130
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #74 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 378 bytes
+Packet #75 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #76 captured:
+Source IP: 51.11.168.232
+Destination IP: 10.5.28.169
+Packet Length: 60 bytes
+Packet #77 captured:
+Source IP: 10.5.28.169
+Destination IP: 51.11.168.232
+Packet Length: 54 bytes
+Packet #1 captured:
+Source IP: 3.233.158.25
+Destination IP: 192.168.108.228
+Packet Length: 66 bytes
+Packet #1 captured:
+Source IP: 151.101.66.219
+Destination IP: 192.168.210.184
+Packet Length: 1254 bytes
+Packet #2 captured:
+Source IP: 151.101.66.219
+Destination IP: 192.168.210.184
+Packet Length: 1254 bytes

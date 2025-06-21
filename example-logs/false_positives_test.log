@@ -1,0 +1,13 @@
+
+[INFO] Monitoring traffic on target IP: 192.168.135.228
+[INFO] Loaded 10 signatures from the database
+
+[ALERT] High-volume TCP traffic detected [Severity: 5] - Action: Alert | Src IP: 52.187.49.141 -> Dest IP: 192.168.135.228
+[ALERT] High-volume TCP traffic detected [Severity: 5] - Action: Alert | Src IP: 34.144.254.29 -> Dest IP: 192.168.135.228
+[ALERT] Large number of UDP packets [Severity: 4] - Action: Alert | Src IP: 34.144.254.29 -> Dest IP: 192.168.135.228
+[ALERT] High-volume TCP traffic detected [Severity: 5] - Action: Alert | Src IP: 34.144.254.29 -> Dest IP: 192.168.135.228
+[ALERT] High-volume DNS responses [Severity: 5] - Action: Alert | Src IP: 192.168.135.9 -> Dest IP: 192.168.135.228
+[ALERT] High-volume TCP traffic detected [Severity: 5] - Action: Alert | Src IP: 34.237.73.95 -> Dest IP: 192.168.135.228
+[ALERT] Large number of UDP packets [Severity: 4] - Action: Alert | Src IP: 192.168.135.9 -> Dest IP: 192.168.135.228
+[ALERT] High-volume DNS responses [Severity: 5] - Action: Alert | Src IP: 192.168.135.9 -> Dest IP: 192.168.135.228
+[ALERT] High-volume TCP traffic detected [Severity: 5] - Action: Alert | Src IP: 103.30.235.171 -> Dest IP: 192.168.135.228
